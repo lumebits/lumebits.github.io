@@ -42,8 +42,8 @@ All responsive css rule
     margin-bottom: 33px;
   }
   .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    border-color: #c0392b;
-    background-color: #c0392b;
+    border-color: #ff5757;
+    background-color: #ff5757;
   }
   .navbar-default .navbar-toggle .icon-bar {
     background-color: #ffffff;
