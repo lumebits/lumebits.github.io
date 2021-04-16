@@ -485,7 +485,7 @@ Navbar Styles
   background-color: transparent;
 }
 .navbar-default.affix {
-  background-color: #111111;
+  background-color: #385553;
   min-height: 60px;
 }
 .navbar-default.affix .navbar-brand {
@@ -552,7 +552,7 @@ Banner Styles
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #385553/*rgba(17, 17, 17, 0.5) TODO here cambiar*/; 
+  background-color: #385553; 
   z-index: 1;
 }
 
